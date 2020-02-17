@@ -1,2 +1,0 @@
-(this.webpackJsonpreact_sum=this.webpackJsonpreact_sum||[]).push([[0],{3:function(e,t,n){e.exports=n(9)},8:function(e,t,n){},9:function(e,t,n){"use strict";n.r(t);var c=n(0),r=n.n(c),u=n(2),a=n.n(u),o=(n(8),function(){return r.a.createElement("h1",null,"React sum Hello Roma dev")});a.a.render(r.a.createElement(o,null),document.getElementById("root"))}},[[3,1,2]]]);
-//# sourceMappingURL=main.9e6a0eba.chunk.js.map
